@@ -21,9 +21,11 @@ This website can be used to present your professional profile, showcase your pro
 
 ## Link of the project
 
-https://github.com/NagaPravallika3007/PRODIGY_WD_04.git
+
 
 ## Screenshot of the Website
+
+![Screenshot (13)](https://github.com/NagaPravallika3007/PRODIGY_WD_04/assets/171419600/759689b8-82df-4401-b087-238cbc1c2509)
 
 
 
